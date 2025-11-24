@@ -1,0 +1,17 @@
+body {
+    background-color: #394b5d;
+}
+
+.container {
+    max-width: 900px;
+    background-color: rgb(130, 49, 49);
+}
+
+textarea {
+    resize: none;
+}
+body {
+  background: url("TIM.JPG") no-repeat center center fixed;
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+}
